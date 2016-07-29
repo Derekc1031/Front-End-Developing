@@ -7,6 +7,7 @@
 # Git/GitHub
  * [Git](https://git-scm.com/book/zh-tw/v1)
   * [Git入門指南](http://backlogtool.com/git-guide/tw/)
+  * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
   * [Git 指令](http://blog.gogojimmy.net/2012/02/29/git-scenario/)
   * [利用 git reset 恢復檔案、暫存狀態、commit 訊息](http://ppt.cc/S15LR)
  * [GitHub](https://github.com/)

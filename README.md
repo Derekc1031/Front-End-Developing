@@ -53,7 +53,6 @@
     * [Foundation For Sites HTML Template](http://foundation.zurb.com/templates.html)
   * images/Icons/others componets
     * [freepick](http://www.freepik.com/free-icons)
- 
     * [images-freeimages](http://www.freeimages.co.uk/)
     * [images-gettyimages](http://www.gettyimages.com/?corbis)
     * [images-unsplash](https://unsplash.com/) 

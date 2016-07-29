@@ -14,6 +14,7 @@
   * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
 
 # [Sublime Text](https://www.sublimetext.com/)
+  * [一小時上手 Sublime Text 3 網頁編輯器](https://www.udemy.com/sublime-text-3/)
   * [Sublime Text 3 新手上路：必要的安裝、設定與基本使用教學](http://blog.miniasp.com/post/2014/01/06/Useful-tool-Sublime-Text-3-Quick-Start.aspx)
   * [Sublime Text – Plugins 好用插件整理](http://ppt.cc/zYxKQ)
   * [Using the AngularJS Package for Sublime Text](http://weblogs.asp.net/dwahlin/using-the-angularjs-package-for-sublime-text)
@@ -36,6 +37,10 @@
   * [CSS Compressor](http://csscompressor.com/)
   * [Javscript Compressor](http://ppt.cc/yMkVE)
 
+# Google Chrome 
+  * [使用 Chrome Developer Tools 來抓出臭蟲](http://ppt.cc/tMBKQ)
+  * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)
+  
 # WorkFlow & Design Tools
   * [Flowchar Maker](https://www.draw.io/)
   * UI Template

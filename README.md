@@ -1,3 +1,5 @@
+# [網站建置不是件簡單的事 @ 打造網站的步驟](http://blog.miniasp.com/post/2011/09/28/Building-Website-is-not-that-easy-the-SOP.aspx)
+
 # [各式 Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools)
 
 # [Emmet](http://docs.emmet.io/)
@@ -60,3 +62,6 @@
     * [vector-vecteezy](http://www.vecteezy.com/)
     * [vector-vector4free](http://vector4free.com/)
 
+# Others
+  * [亂數假文產生器-ch](http://www.richyli.com/tool/loremipsum/)
+  * [亂數假文產生器-en](http://www.lipsum.com/)

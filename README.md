@@ -42,8 +42,8 @@
   * [Javscript Compressor](http://ppt.cc/yMkVE)
 
 # Google Chrome 
-  * [使用 Chrome Developer Tools 來抓出臭蟲](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
-  * [Chrome Developer Tools to Debug](https://www.udemy.com/chrome-devtools/)
+  * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)
+  * [Chrome Developer Tools to Debug](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
   
 # Wireframe & Design Tools
   * [UI Design Patterns](http://ui-patterns.com/patterns)

@@ -46,7 +46,7 @@
   * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)
   
 # Wireframe & Design Tools
-  * [ui-patterns](http://ui-patterns.com/patterns)
+  * [UI Design Patterns](http://ui-patterns.com/patterns)
   * [Wireframe Maker](https://www.draw.io/)
   * UI Template 
     * [TemplatesBox](https://www.templatesbox.com/templates.htm)

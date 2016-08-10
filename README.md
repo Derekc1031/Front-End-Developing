@@ -42,7 +42,7 @@
   * [CSS Compressor](http://csscompressor.com/)
   * [Javscript Compressor](http://ppt.cc/yMkVE)
   * [JPG & PNG Compressor](https://tinypng.com/)
-  * ImageOptim: [1](https://briian.com/8243/imageoptim.html) ; [2](https://imageoptim.com/versions.html)
+  * ImageOptim: [LINK(1)](https://briian.com/8243/imageoptim.html) / [LINK(2)](https://imageoptim.com/versions.html)
 
 # Google Chrome 
   * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)

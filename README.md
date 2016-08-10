@@ -50,6 +50,12 @@
   * [Make JavaScript Look Pretty In Google](https://developers.google.com/web/tools/chrome-devtools/debug/readability/pretty-print?hl=en)
   * [Source Maps In Google](https://github.com/gonsakon/Learn-Sass-in-90-days/blob/master/docs/Sass3.3/Source%20Maps.markdown)
 
+# 前端網頁效能
+  * [加速前端網頁效能的14條規則](http://blog.miniasp.com/post/2007/11/24/14-rules-for-faster-front-end-performance-notes.aspx)
+  * Google PageSpeed Insights
+    * [Google PageSpeed Insights分析工具](https://developers.google.com/speed/pagespeed/insights/)
+    * [Google PageSpeed Insights 規則](https://developers.google.com/speed/docs/insights/rules) 
+
 # How browsers work
   * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
   * [瀏覽器的渲染原理簡介](http://inspiregate.com/programming/other/452-the-browser-39-s-rendering-principle.html)

@@ -1,7 +1,4 @@
-# [Emmet](http://docs.emmet.io/)
-  * [Cheat Sheet](http://docs.emmet.io/cheat-sheet/) 
-
- # [Sublime Text](https://www.sublimetext.com/)
+# [Sublime Text](https://www.sublimetext.com/)
  * [Sublime Package Control](https://packagecontrol.io/)
  
   * snippets for download:
@@ -18,6 +15,8 @@
     * [Bootstrap Plugin Install Tutorial](https://www.youtube.com/watch?v=bi58bo2sSDQ)
     * [JQuery Plugin Install Tutorial](https://www.youtube.com/watch?v=cAl9SsOR3Zs)
 
+# [Emmet](http://docs.emmet.io/)
+  * [Cheat Sheet](http://docs.emmet.io/cheat-sheet/) 
 
 # [yeoman](https://github.com/yeoman/yeoman)
   
@@ -40,12 +39,6 @@
    * [GitHub Guide](https://guides.github.com/)
    * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
 
-# Compression & Optimization Tools
-  * [CSS Compressor](http://csscompressor.com/)
-  * [Javscript Compressor](http://ppt.cc/yMkVE)
-  * [JPG & PNG Compressor](https://tinypng.com/)
-  * ImageOptim: [LINK(1)](https://briian.com/8243/imageoptim.html) / [LINK(2)](https://imageoptim.com/versions.html)
-
 # Google Chrome 
   * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)
   * [Chrome Developer Tools to Debug](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
@@ -57,6 +50,13 @@
   * Google PageSpeed Insights
     * [Google PageSpeed Insights分析工具](https://developers.google.com/speed/pagespeed/insights/)
     * [Google PageSpeed Insights 規則](https://developers.google.com/speed/docs/insights/rules) 
+
+# Compression & Optimization Tools
+  * [CSS Compressor](http://csscompressor.com/)
+  * [Javscript Compressor](http://ppt.cc/yMkVE)
+  * [JPG & PNG Compressor](https://tinypng.com/)
+  * ImageOptim: [LINK(1)](https://briian.com/8243/imageoptim.html) / [LINK(2)](https://imageoptim.com/versions.html)
+
 
 # How browsers work
   * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)

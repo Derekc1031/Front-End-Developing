@@ -47,6 +47,8 @@
 # Google Chrome 
   * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)
   * [Chrome Developer Tools to Debug](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
+  * [Make JavaScript Look Pretty In Google](https://developers.google.com/web/tools/chrome-devtools/debug/readability/pretty-print?hl=en)
+  * [Source Maps In Google](https://github.com/gonsakon/Learn-Sass-in-90-days/blob/master/docs/Sass3.3/Source%20Maps.markdown)
 
 # How browsers work
   * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)

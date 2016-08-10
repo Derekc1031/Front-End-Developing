@@ -1,11 +1,7 @@
-# [各式 Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools)
-
 # [Emmet](http://docs.emmet.io/)
   * [Cheat Sheet](http://docs.emmet.io/cheat-sheet/) 
 
-# [npm](https://docs.npmjs.com/)
-
-# [Sublime Text](https://www.sublimetext.com/)
+ # [Sublime Text](https://www.sublimetext.com/)
  * [Sublime Package Control](https://packagecontrol.io/)
  
   * snippets for download:
@@ -22,21 +18,27 @@
     * [Bootstrap Plugin Install Tutorial](https://www.youtube.com/watch?v=bi58bo2sSDQ)
     * [JQuery Plugin Install Tutorial](https://www.youtube.com/watch?v=cAl9SsOR3Zs)
 
+
 # [yeoman](https://github.com/yeoman/yeoman)
   
   * [如何在 Windows 平台安裝與使用 Yeoman 1.0 相關工具](http://blog.miniasp.com/post/2013/08/11/Yeoman-1-0-Installation-and-Usage-on-Windows.aspx)
   
   * [How to create a gruntfile.js on a project which created with command-"yo webapp"](https://github.com/Derekc1031/Front-End-Developing-Tools/blob/master/doc/How%20to%20create%20a%20gruntfile.js%20on%20a%20project%20which%20created%20with%20command-%22yo%20webapp%22.md)
 
+# Bower/Grunt/npm
+  * [Bower](https://bower.io/)
+  * [Grunt](http://gruntjs.com/)
+  * [npm](https://docs.npmjs.com/) 
+
 # Git/GitHub
- * [Git](https://git-scm.com/book/zh-tw/v1)
-  * [Git入門指南](http://backlogtool.com/git-guide/tw/)
-  * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
-  * [Git 指令](http://blog.gogojimmy.net/2012/02/29/git-scenario/)
-  * [利用 git reset 恢復檔案、暫存狀態、commit 訊息](http://ppt.cc/S15LR)
- * [GitHub](https://github.com/)
-  * [GitHub Guide](https://guides.github.com/)
-  * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
+  * [Git](https://git-scm.com/book/zh-tw/v1)
+   * [Git入門指南](http://backlogtool.com/git-guide/tw/)
+   * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+   * [Git 指令](http://blog.gogojimmy.net/2012/02/29/git-scenario/)
+   * [利用 git reset 恢復檔案、暫存狀態、commit 訊息](http://ppt.cc/S15LR)
+  * [GitHub](https://github.com/)
+   * [GitHub Guide](https://guides.github.com/)
+   * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
 
 # Compression & Optimization Tools
   * [CSS Compressor](http://csscompressor.com/)
@@ -64,3 +66,4 @@
 # Others 
   * [前端工程師面試問題集](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese-Traditional#contributors) 
   * [網站建置不是件簡單的事 @ 打造網站的步驟](http://blog.miniasp.com/post/2011/09/28/Building-Website-is-not-that-easy-the-SOP.aspx)
+  * [各式 Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools)

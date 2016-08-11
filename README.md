@@ -99,6 +99,8 @@
     * [Bootstrap Plugin Install Tutorial](https://www.youtube.com/watch?v=bi58bo2sSDQ)
     * [JQuery Plugin Install Tutorial](https://www.youtube.com/watch?v=cAl9SsOR3Zs)
  
+* [Fastston Screen Capture](http://www.faststone.org/FSCaptureDetail.htm)
+ 
 # 9. 其他:
   * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
    * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)

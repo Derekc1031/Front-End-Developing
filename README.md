@@ -50,9 +50,9 @@
  * [JPG & PNG Compressor](https://tinypng.com/)
  * ImageOptim: [LINK(1)](https://briian.com/8243/imageoptim.html) / [LINK(2)](https://imageoptim.com/versions.html)
 
-# 7. [效能&壓力測試:](https://github.com/Derekc1031/Web-Performance-Tuning)
+# 7. [效能&壓力測試](https://github.com/Derekc1031/Web-Performance-Tuning)
  
-# 輔助工具:
+# 8. 輔助工具:
 
 * [各式 Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools)
 
@@ -99,7 +99,7 @@
     * [Bootstrap Plugin Install Tutorial](https://www.youtube.com/watch?v=bi58bo2sSDQ)
     * [JQuery Plugin Install Tutorial](https://www.youtube.com/watch?v=cAl9SsOR3Zs)
  
-# Others 
+# 9. 其他:
   * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
    * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
    * [瀏覽器的渲染原理簡介](http://inspiregate.com/programming/other/452-the-browser-39-s-rendering-principle.html)

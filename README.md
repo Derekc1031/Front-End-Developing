@@ -34,8 +34,8 @@
  * [切版工具-Slicy](http://macrabbit.com/slicy/) /     [相關教學](http://blog.akanelee.me/posts/177345-favorite-diagram-artifact-slicy/)
   
 # 4. 介面套版&互動功能開發:
- * [HTML & CSS 開發](https://github.com/Derekc1031/HTML-CSS)
- * 互動功能開發
+ * [HTML & CSS 開發注意事項](https://github.com/Derekc1031/HTML-CSS)
+ * 互動功能開發資源:
   * [Javascript rescource](https://github.com/Derekc1031/Javascript) 
   * [Angular resource](https://github.com/Derekc1031/AngularJS)
   

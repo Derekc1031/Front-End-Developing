@@ -81,6 +81,12 @@
   * [Chrome Developer Tools to Debug](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
   * [Make JavaScript Look Pretty In Google](https://developers.google.com/web/tools/chrome-devtools/debug/readability/pretty-print?hl=en)
   * [Source Maps In Google](https://github.com/gonsakon/Learn-Sass-in-90-days/blob/master/docs/Sass3.3/Source%20Maps.markdown)
+  * 實用的chrome擴充功能
+   * Web Server for Chrome(虛擬server)
+   * Type Sample(查看網頁所用字型)
+   * Dimensions(量測"網頁元素"間距)
+   * Pesticide for Chrome(秀出網頁框架)
+   * Wappalyzer(可知道該網站使用何種技術開發)
 
 * [Sublime Text](https://www.sublimetext.com/)
   * [Sublime Package Control](https://packagecontrol.io/)
@@ -98,7 +104,8 @@
     * [Emmet 套件安裝及使用](http://youradsor.appspot.com/u?purl=bG10aC50ZW1tZS0zLXR4ZXQtZW1pbGJ1cy84MC80MTAyL21vYy50b3BzZ29sYi50aS1yZXBzYWovLzpwdHRo)
     * [Bootstrap Plugin Install Tutorial](https://www.youtube.com/watch?v=bi58bo2sSDQ)
     * [JQuery Plugin Install Tutorial](https://www.youtube.com/watch?v=cAl9SsOR3Zs)
- 
+
+
 * [Fastston Screen Capture](http://www.faststone.org/FSCaptureDetail.htm)
  
 # 9. 其他:

@@ -82,11 +82,11 @@
   * [Make JavaScript Look Pretty In Google](https://developers.google.com/web/tools/chrome-devtools/debug/readability/pretty-print?hl=en)
   * [Source Maps In Google](https://github.com/gonsakon/Learn-Sass-in-90-days/blob/master/docs/Sass3.3/Source%20Maps.markdown)
   * 實用的chrome擴充功能
-   * Web Server for Chrome(虛擬server)
-   * Type Sample(查看網頁所用字型)
-   * Dimensions(量測"網頁元素"間距)
-   * Pesticide for Chrome(秀出網頁框架)
-   * Wappalyzer(可知道該網站使用何種技術開發)
+    * Web Server for Chrome(虛擬server)
+    * Type Sample(查看網頁所用字型)
+    * Dimensions(量測"網頁元素"間距)
+    * Pesticide for Chrome(秀出網頁框架)
+    * Wappalyzer(可知道該網站使用何種技術開發)
 
 * [Sublime Text](https://www.sublimetext.com/)
   * [Sublime Package Control](https://packagecontrol.io/)

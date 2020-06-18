@@ -15,10 +15,12 @@
    @import index //首頁
    @import page //內頁 
    @import xxx  //各單元CSS 
-   ```   
-   * [相關Sass檔案](https://github.com/gonsakon/Sass-Layout-Demo/tree/master/sass) 
+   ```
+* [CSS Tricker](https://css-tricks.com/snippets/html/glyphs/)
+* [相關Sass檔案](https://github.com/gonsakon/Sass-Layout-Demo/tree/master/sass)    
+* [Sass教學手冊](https://github.com/gonsakon/Learn-Sass-in-90-days)
+* [Sass官方](https://sass-lang.com/)
    
-* [Sass 教學手冊](https://github.com/gonsakon/Learn-Sass-in-90-days) 
 
 # W3C HTML/CSS 驗證
 * [HTML MarkUp Validation](https://validator.w3.org/)
@@ -27,5 +29,8 @@
 # Others
   * [亂數假文產生器-ch](http://www.richyli.com/tool/loremipsum/)
   * [亂數假文產生器-en](http://www.lipsum.com/)
- 
+  * [AnimateCSS](https://animate.style/)
+  * [Bootstrap](https://getbootstrap.com/)
+  * [Font Awesome](https://fontawesome.com/6?next=%2F%3Ffrom%3Dio)
+  * [色表](https://color.adobe.com/zh/create/color-wheel)
   

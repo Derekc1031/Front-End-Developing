@@ -1,5 +1,7 @@
 # 1. 藍圖規畫
 * Wireframe Tools:
+  * [Getting Started with Axure RP](https://docs.axure.com/axure-rp/reference/getting-started-video/)
+  * [Axure RP](https://axure.userxper.com/category/9-learn/)
   * [wireframcc](https://wireframe.cc/)
   * [drawio](https://www.draw.io/)
 
@@ -30,14 +32,15 @@
     * [Foundation For Sites HTML Template](http://foundation.zurb.com/templates.html)
     * [使用者介面範例](http://ui-patterns.com/patterns)
  
+ 
 # 3. 介面切版: 
  * [切版工具-Slicy](http://macrabbit.com/slicy/) /     [相關教學](http://blog.akanelee.me/posts/177345-favorite-diagram-artifact-slicy/)
   
 # 4. 介面套版&互動功能開發:
  * [HTML & CSS 開發注意事項](https://github.com/Derekc1031/HTML-CSS)
  * 互動功能開發資源:
-  * [Javascript rescource](https://github.com/Derekc1031/Javascript) 
-  * [Angular resource](https://github.com/Derekc1031/AngularJS)
+   * [Javascript rescource](https://github.com/Derekc1031/Javascript) 
+   * [Angular resource](https://github.com/Derekc1031/AngularJS)
   
 # 5. 自動化測試:
  * [Karma](http://karma-runner.github.io/0.12/intro/installation.html)
@@ -50,9 +53,7 @@
  * [JPG & PNG Compressor](https://tinypng.com/)
  * ImageOptim: [LINK(1)](https://briian.com/8243/imageoptim.html) / [LINK(2)](https://imageoptim.com/versions.html)
 
-# 7. [效能&壓力測試](https://github.com/Derekc1031/Web-Performance-Tuning)
- 
-# 8. 輔助工具:
+# 7. 輔助工具:
 
 * [各式 Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools)
 
@@ -68,13 +69,13 @@
 
 * Git/GitHub
   * [Git](https://git-scm.com/book/zh-tw/v1)
-   * [Git入門指南](http://backlogtool.com/git-guide/tw/)
-   * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
-   * [Git 指令](http://blog.gogojimmy.net/2012/02/29/git-scenario/)
-   * [利用 git reset 恢復檔案、暫存狀態、commit 訊息](http://ppt.cc/S15LR)
+    * [Git入門指南](http://backlogtool.com/git-guide/tw/)
+    * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+    * [Git 指令](http://blog.gogojimmy.net/2012/02/29/git-scenario/)
+    * [利用 git reset 恢復檔案、暫存狀態、commit 訊息](http://ppt.cc/S15LR)
   * [GitHub](https://github.com/)
-   * [GitHub Guide](https://guides.github.com/)
-   * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
+    * [GitHub Guide](https://guides.github.com/)
+    * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
 
 * Google Chrome 
   * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)

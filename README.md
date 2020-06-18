@@ -4,6 +4,7 @@
   * [Axure RP](https://axure.userxper.com/category/9-learn/)
   * [wireframcc](https://wireframe.cc/)
   * [drawio](https://www.draw.io/)
+  * [W](https://app.diagrams.net/)
 
 # 2. 介面設計
  
@@ -12,13 +13,15 @@
   * [LINK2](http://wegraphics.net/blog/tutorials/designing-a-highly-professional-website-from-the-sketch-to-the-code/)
   * [LINK3](http://code.tutsplus.com/tutorials/design-and-code-your-first-website-in-easy-to-understand-steps--net-6062)
 
- * 圖片/元件素材:
+ * 元件素材:
     * [freepick](http://www.freepik.com/free-icons)
     * [images-freeimages](http://www.freeimages.co.uk/)
     * [images-gettyimages](http://www.gettyimages.com/?corbis)
     * [images-unsplash](https://unsplash.com/) 
     * [images-everystockphoto](http://www.everystockphoto.com/)
     * [icon-flaticon](http://www.flaticon.com/)
+    * [icon-linea](https://linea.io/)
+    * [video-coverr](https://coverr.co/)
     * [vector-vecteezy](http://www.vecteezy.com/)
     * [vector-vector4free](http://vector4free.com/)
   
@@ -34,7 +37,7 @@
  
  
 # 3. 介面切版: 
- * [切版工具-Slicy](http://macrabbit.com/slicy/) /     [相關教學](http://blog.akanelee.me/posts/177345-favorite-diagram-artifact-slicy/)
+ * [切版工具-Slicy](http://macrabbit.com/slicy/) /  [相關教學](http://blog.akanelee.me/posts/177345-favorite-diagram-artifact-slicy/)
   
 # 4. 介面套版&互動功能開發:
  * [HTML & CSS 開發注意事項](https://github.com/Derekc1031/HTML-CSS)
@@ -108,10 +111,16 @@
 
 
 * [Fastston Screen Capture](http://www.faststone.org/FSCaptureDetail.htm)
- 
-# 9. 其他:
+
+# 9.  HTML:
+  * [HTML資料彙整](/doc/HTML&CSS.md)  
+
+# 10. Javascript:
+  * [Javascrip資料彙整](/doc/JavaScript.md)
+  
+# 11. 其他:
   * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
-   * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-   * [瀏覽器的渲染原理簡介](http://inspiregate.com/programming/other/452-the-browser-39-s-rendering-principle.html)
+  * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+  * [瀏覽器的渲染原理簡介](http://inspiregate.com/programming/other/452-the-browser-39-s-rendering-principle.html)
   * [前端工程師面試問題集](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese-Traditional#contributors) 
   * [網站建置不是件簡單的事 @ 打造網站的步驟](http://blog.miniasp.com/post/2011/09/28/Building-Website-is-not-that-easy-the-SOP.aspx)

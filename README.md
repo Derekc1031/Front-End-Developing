@@ -1,5 +1,6 @@
-# 0. [前端神人jonas's resource](http://codingheroes.io/resources/)
-# 1. 藍圖規畫
+# 1. [前端神人Jonas's resource](http://codingheroes.io/resources/)
+
+# 2. 藍圖規畫
 * Wireframe Tools:
   * [Getting Started with Axure RP](https://docs.axure.com/axure-rp/reference/getting-started-video/)
   * [Axure RP](https://axure.userxper.com/category/9-learn/)
@@ -7,7 +8,7 @@
   * [drawio](https://www.draw.io/)
   * [WorkFlow on line](https://app.diagrams.net/)
 
-# 2. 介面設計
+# 3. UI設計
  
  * 從UI設計、切版到轉換成HTMK/CSS架構教學:
   * [LINK1](http://1stwebdesigner.com/psd-to-html/)
@@ -37,27 +38,26 @@
     * [使用者介面範例](http://ui-patterns.com/patterns)
  
  
-# 3. 介面切版: 
+# 4. UI切版: 
  * [切版工具-Slicy](http://macrabbit.com/slicy/) /  [相關教學](http://blog.akanelee.me/posts/177345-favorite-diagram-artifact-slicy/)
   
-# 4. 介面套版&互動功能開發:
- * [HTML & CSS 開發注意事項](https://github.com/Derekc1031/HTML-CSS)
- * 互動功能開發資源:
-   * [Javascript rescource](https://github.com/Derekc1031/Javascript) 
-   * [Angular resource](https://github.com/Derekc1031/AngularJS)
+# 5. HTML & CSS & Javascrip:
+  * [HTML資料彙整](/doc/HTML&CSS.md)  
+  * [Javascrip資料彙整](/doc/JavaScript.md)
+  * [Angular resource](https://github.com/Derekc1031/AngularJS)
   
-# 5. 自動化測試:
+# 6. 自動化測試:
  * [Karma](http://karma-runner.github.io/0.12/intro/installation.html)
  * [Jasmine](http://jasmine.github.io/)
  * [Protractor](http://www.protractortest.org/#/)
 
-# 6. 檔案壓縮:
+# 7. 檔案壓縮:
  * [CSS Compressor](http://csscompressor.com/)
  * [Javscript Compressor](http://ppt.cc/yMkVE)
  * [JPG & PNG Compressor](https://tinypng.com/)
  * ImageOptim: [LINK(1)](https://briian.com/8243/imageoptim.html) / [LINK(2)](https://imageoptim.com/versions.html)
 
-# 7. 輔助工具:
+# 8. 輔助工具:
 
 * [各式 Web 前端開發工具整理](https://github.com/doggy8088/frontend-tools)
 
@@ -110,16 +110,9 @@
     * [Bootstrap Plugin Install Tutorial](https://www.youtube.com/watch?v=bi58bo2sSDQ)
     * [JQuery Plugin Install Tutorial](https://www.youtube.com/watch?v=cAl9SsOR3Zs)
 
-
-* [Fastston Screen Capture](http://www.faststone.org/FSCaptureDetail.htm)
-
-# 9.  HTML:
-  * [HTML資料彙整](/doc/HTML&CSS.md)  
-
-# 10. Javascript:
-  * [Javascrip資料彙整](/doc/JavaScript.md)
+ * [Fastston Screen Capture](http://www.faststone.org/FSCaptureDetail.htm)
   
-# 11. 其他:
+# 9. 其他:
   * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
   * [瀏覽器的工作原理](http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
   * [瀏覽器的渲染原理簡介](http://inspiregate.com/programming/other/452-the-browser-39-s-rendering-principle.html)

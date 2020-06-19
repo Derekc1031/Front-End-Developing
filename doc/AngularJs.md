@@ -22,7 +22,8 @@
   * [How we messed up our Angular App](https://blogs.mumairkhan.com/2015/03/14/how-we-messed-up-our-angular-app.html)
 
   * [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
-
+  * [Overview of the AngularJS life cycle](/doc/AngularJSLifeCycle.md)
+  
   3. ## The [Bootstrap](https://docs.angularjs.org/guide/bootstrap) Phase of AngularJS
   
   * load the [Modules](https://docs.angularjs.org/guide/module) associated with the directive. 
@@ -103,4 +104,4 @@
 * [Pretty URLs in AngularJS: Removing the #](https://scotch.io/tutorials/pretty-urls-in-angularjs-removing-the-hashtag)
 * [AngularJS-Learning](https://github.com/Derekc1031/AngularJS-Learning)
 * [AngularJS 開發實戰：重要的開發觀念與經驗分享](https://www.youtube.com/watch?v=aXuK2ACHLcU)
-* [How do I think in angularjs if have a jquery background](/doc/How do I think in angularjs if have a jquery background.docx)
+* [How do I think in angularjs if have a jquery background](/doc/AnugularForJqueryBackground.docx)

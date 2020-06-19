@@ -71,16 +71,6 @@
   * [Grunt](http://gruntjs.com/)
   * [npm](https://docs.npmjs.com/) 
 
-* Git/GitHub
-  * [Git](https://git-scm.com/book/zh-tw/v1)
-    * [Git入門指南](http://backlogtool.com/git-guide/tw/)
-    * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
-    * [Git 指令](http://blog.gogojimmy.net/2012/02/29/git-scenario/)
-    * [利用 git reset 恢復檔案、暫存狀態、commit 訊息](http://ppt.cc/S15LR)
-  * [GitHub](https://github.com/)
-    * [GitHub Guide](https://guides.github.com/)
-    * [GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
-
 * Google Chrome 
   * [Chrome 網頁除錯功能大解密](https://www.udemy.com/chrome-devtools/)
   * [Chrome Developer Tools to Debug](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
